@@ -8,7 +8,7 @@
   - Bob, :octocat: [@BobBallance](http://github.com/BobBallance)
   - Duane, :octocat: [@ddotrollins](http://github.com/ddotrollins)
   - Philip, :octocat: [@philipharding] (http://github.com/philipharding)
-- :email: [daa-partners@gsa.gov]
+- :email: [da-pilot@gsa.gov]
 
 ### Before We Begin
 - Sign up for an account on [github.com](http://github.com)
