@@ -2,3 +2,5 @@
 
 - The Mall
 - Restaurants
+- Fun Stuff
+- Really Fun Stuff
