@@ -1,5 +1,7 @@
 # Welcome to the DAAP Introduction to GitHub!
 
+tekkierich is the best!
+
 ### Facilitators
 - Main Facilitator:
   - Victor, :octocat: [@vicuk](http://github.com/vicuk)
