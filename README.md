@@ -17,7 +17,9 @@
 ### Talk To Us! :speech_balloon:
 - [![Slack](http://www.jaredhanstra.com/images/logos/slack.png)](https://18f.slack.com/messages/daa-partners/)
 - :point_up_2: Click the button to join us on Slack for Q&A
-- [Check out our blog!](https://18f.gsa.gov/blog/)
+
+### Follow Us!
+- [Follow the GSA's 18F team's blog!](https://18f.gsa.gov/blog/)
 
 ### Resources
 - [Help with Markdown](https://guides.github.com/features/mastering-markdown/)
