@@ -1,5 +1,5 @@
 # Attractions
 Monument
 Arundel Mills
-National Harbo
-
+National Harbor
+African American Musuemn due to open in September!!!
