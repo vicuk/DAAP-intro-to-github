@@ -14,7 +14,7 @@ tekkierich is the best!
 
 ### Before We Begin
 - Sign up for an account on [github.com](http://github.com)
-- Navigate to this repository: https://github.com/vicuk/DAAP-intro-to-github/
+- Navigate to this repository: https://goo.gl/Sym35K
 
 ### Talk To Us! :speech_balloon:
 - [![Slack](http://www.jaredhanstra.com/images/logos/slack.png)](https://18f.slack.com/messages/daa-partners/)
